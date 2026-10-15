@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository is archived. v2.0 is the final version of this prompt.**
+> The tutor continues as **[leetcode-tutor](https://github.com/mileschintw/leetcode-tutor)** (v3): installable agent skills for Claude, Codex, Cursor and Antigravity, with a practice log you own, import of past records, and an up-to-date copy-paste prompt for chat apps.
+> The prompt below still works as-is, but it will no longer be updated.
+
 <div align="center">
 
 # 🧠 LeetCode Interview Tutor Prompt
